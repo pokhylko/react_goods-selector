@@ -1,0 +1,2 @@
+h1{display:flex}h1 button{visibility:hidden;margin-left:20px;border-radius:100%;background-color:red;color:#fff;border:none;height:30px;width:30px}h1 .visible{visibility:visible}.goods-list{display:flex;flex-direction:column}.goods-list button{cursor:pointer;text-align:left;border:none;padding:10px;margin-bottom:5px}.goods-list .active{background-color:#2196f3;color:#fff}
+/*# sourceMappingURL=main.00b8ab6b.chunk.css.map */
